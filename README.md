@@ -19,13 +19,12 @@ Goal: Support bottom-up early response coordination in disaster and conflict zon
 ---
 
 ## Demo Video
+Verification interface and public map workflow:
 
-▶️ ![SMS-to-Map Demo](sms_demo.gif)
+<p align="center">
+  <img src="sms_demo.gif" alt="SMS-to-Map Demo" width="720">
+</p>
 
-
-
-
-*(Shows the verification interface and public map prototype in action.)*
 
 ---
 
