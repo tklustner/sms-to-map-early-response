@@ -20,7 +20,10 @@ Goal: Support bottom-up early response coordination in disaster and conflict zon
 
 ## Demo Video
 
-▶️ [Watch the MVP Demo](file:///Users/timklustner/Desktop/sms_to_map_gif_v2.mov)
+▶️ ![SMS-to-Map Demo](sms_demo.gif)
+
+
+
 
 *(Shows the verification interface and public map prototype in action.)*
 
@@ -37,12 +40,12 @@ Goal: Support bottom-up early response coordination in disaster and conflict zon
 ## Status
 
 - MVP built and tested locally.  
-- Preparing for cloud deployment, integration with Twilio SMS gateway, and field trial in Chiapas, Mexico (August–September 2025).
+- Preparing for cloud deployment, integration with Twilio SMS gateway, and field trial in Chiapas, Mexico (September 2025).
 
 ---
 
 ## Contact
 
 For collaboration or pilot opportunities:  
-[Email](timklustner@gmail.com)
+[Email](timklustner@gmail.com) |
 [LinkedIn](https://www.linkedin.com/in/tim-klustner/)
