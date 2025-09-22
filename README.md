@@ -30,7 +30,7 @@ Interfaz de verificación y flujo de trabajo del mapa público / Verification in
 </p>
 
 ---
-# sms-to-map-early-response
+# SMS-to-Map Early Community Response
 This data pipeline turns incoming SMS reports from affected communities into verified, mapped humanitarian needs data in near real time.
 
 Goal: Support bottom-up early response coordination in disaster and conflict zones by giving responders a public, map-based view of urgent needs.
