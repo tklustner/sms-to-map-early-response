@@ -3,7 +3,7 @@
 **Objetivo**  
 Apoyar la coordinación de respuesta temprana en zonas de desastre y conflicto, dando a lxs respondientes una vista pública, en mapa, de necesidades urgentes reportadas por la comunidad.  
 
-**Cómo funciona**  
+## **Cómo funciona**  
 1. **Recepción de SMS**  
    - Personas en el terreno envían mensajes de texto cortos con su ubicación, necesidades o riesgos.  
 
@@ -13,12 +13,12 @@ Apoyar la coordinación de respuesta temprana en zonas de desastre y conflicto, 
 3. **Mapa público**  
    - Los reportes verificados aparecen en un mapa interactivo, filtrado por lugar, tipo de necesidad o amenaza.  
 
-**Por qué importa**  
+## **Por qué importa**  
 - **Bajo costo, alto alcance**: Funciona con SMS básicos, sin necesidad de smartphones o internet.  
 - **Impulsado por la comunidad**: La información viene directamente de personas afectadas, no solo de canales oficiales.  
 - **Conciencia rápida de la situación**: Datos verificados ayudan a dirigir recursos a donde más se necesitan.  
 
-**Estado**  
+## **Estado**  
 MVP ya construido y probado localmente. Preparando despliegue en la nube, integración con gateway SMS, y prueba de campo en Chiapas (septiembre/octubre 2025).  
 
 ---
